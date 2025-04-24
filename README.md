@@ -11,3 +11,6 @@ Aqui encontrarás los códigos fuente de todos los proyectos que realizo en mis 
 Siéntete libre de clonar los repos y no olvides regalarme una estrella!
 
 ![Estadisticas GitHub de jdrodas](https://github-readme-stats.vercel.app/api?username=jdrodas&show_icons=true&theme=dracula)
+
+[![Gráfico de actividad de JDRODAS](https://github-readme-activity-graph.vercel.app/graph?username=jdrodas&bg_color=000000&color=4c5d9e&line=233d7b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
